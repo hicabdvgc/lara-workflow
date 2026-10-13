@@ -303,3 +303,8 @@ material identities, and document-to-implementation relationships traceable.
 Verify technical assumptions against official sources for the versions actually
 used. After changes, check the affected outputs, local links, and behavior, and
 record what was observed.
+
+## Contributors
+
+**AI contributor:** Codex (OpenAI) contributed to the workflow, skills, personas,
+templates, documentation, and verification under the project author's direction.

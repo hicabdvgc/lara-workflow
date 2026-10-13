@@ -1,0 +1,3 @@
+interface:
+  display_name: "Create Experiment Project"
+  short_description: "Initialize study folders and their LIB.md map"

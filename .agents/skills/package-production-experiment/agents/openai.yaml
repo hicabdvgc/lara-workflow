@@ -1,0 +1,3 @@
+interface:
+  display_name: "Package Production Experiment"
+  short_description: "Assemble and verify the experiment release artifact"

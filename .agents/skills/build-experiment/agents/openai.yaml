@@ -1,0 +1,3 @@
+interface:
+  display_name: "Build Experiment"
+  short_description: "Implement the complete lab.js experiment"

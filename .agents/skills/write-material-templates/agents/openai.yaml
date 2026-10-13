@@ -1,0 +1,3 @@
+interface:
+  display_name: "Write Material Templates"
+  short_description: "Create reusable asset structures and content slots"

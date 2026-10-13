@@ -1,0 +1,3 @@
+interface:
+  display_name: "Organize Project Files"
+  short_description: "Organize study files while preserving references"

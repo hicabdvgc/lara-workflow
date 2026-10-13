@@ -1,0 +1,3 @@
+interface:
+  display_name: "Log Test Results"
+  short_description: "Record test evidence, defects, corrections, and retests"

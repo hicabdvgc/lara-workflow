@@ -1,0 +1,3 @@
+interface:
+  display_name: "Test Experiment End to End"
+  short_description: "Verify complete sessions and result delivery"

@@ -1,0 +1,3 @@
+interface:
+  display_name: "Write Design Document"
+  short_description: "Write the established experiment design into DESIGN.md"

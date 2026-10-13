@@ -1,0 +1,3 @@
+interface:
+  display_name: "Revise Code"
+  short_description: "Correct experiment code and verify affected behavior"

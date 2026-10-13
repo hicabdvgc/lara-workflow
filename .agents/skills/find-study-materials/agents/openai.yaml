@@ -1,0 +1,3 @@
+interface:
+  display_name: "Find Study Materials"
+  short_description: "Find candidate materials and preserve their provenance"

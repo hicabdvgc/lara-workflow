@@ -1,0 +1,3 @@
+interface:
+  display_name: "Format Study Materials"
+  short_description: "Turn selected sources into completed experiment assets"

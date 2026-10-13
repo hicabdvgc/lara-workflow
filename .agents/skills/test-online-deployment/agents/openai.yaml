@@ -1,0 +1,3 @@
+interface:
+  display_name: "Test Online Deployment"
+  short_description: "Verify online sessions and stored result retrieval"

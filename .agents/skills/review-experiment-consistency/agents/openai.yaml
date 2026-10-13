@@ -1,0 +1,3 @@
+interface:
+  display_name: "Review Experiment Consistency"
+  short_description: "Trace requirements and review artifact correspondence"

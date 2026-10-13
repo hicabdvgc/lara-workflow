@@ -1,0 +1,3 @@
+interface:
+  display_name: "Write Experiment Schema"
+  short_description: "Translate study requirements into SCHEMATICS.md"

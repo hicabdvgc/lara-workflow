@@ -1,0 +1,3 @@
+interface:
+  display_name: "Deploy Experiment Online"
+  short_description: "Deploy experiments to JATOS or another selected host"
